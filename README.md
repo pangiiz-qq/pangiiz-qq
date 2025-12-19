@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img width="40%" src="https://github.com/pangiiz-qq/pangiiz/blob/main/pangiiz-logo.png"  />
 </div>
 
 ###
@@ -16,18 +16,26 @@
 
 ###
 
+<p align="left">ㅤㅤㅤㅤㅤㅤㅤㅤ</p>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pangiiz-qq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pangiiz-qq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />ㅤㅤ
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pangiiz-qq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">Language & Tools:</h3>
+<p align="left">ㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="175" src="https://github.com/pangiiz-qq/pangiiz/blob/main/barley.webp"  />
+
+###
+
+<h3 align="left">Language & Tools:</h3>
 
 ###
 
@@ -73,11 +81,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
+<p align="center">oﾟo｡oﾟo｡oﾟo｡oﾟo｡oﾟoﾟo｡oﾟo｡oﾟo ﾟo｡oﾟo｡oﾟoﾟo｡oﾟ</p>
 
 ###
 
